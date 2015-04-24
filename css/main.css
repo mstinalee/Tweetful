@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+@import url("http://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.masthead-intro,
+.masthead-heading {
+    text-align: center;
+}
+
+.masthead {
+    padding: 1em 0;
+    text-align: center;
+    font-size: 2.0em;
+}
+
+.masthead-heading {
+    margin-bottom: 0.1em;
+    }
+   
+.masthead-intro {
+    margin-top: -0.2em;
+    font-size: .5em;
+    } 
+    
+.info h1 {
+    text-align: center;
+}
+
+.info {
+    vertical-align: top;
+    display: inline-block;
+    width: 31%;
+    padding-left: .5em;
+    padding-right: .5em;
+    box-sizing: border-box;
+    margin-right: .25em;
+    margin-left: .25em;
+}
